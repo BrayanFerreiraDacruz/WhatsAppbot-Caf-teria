@@ -160,14 +160,6 @@ Total: R$8,50
 Obrigado por visitar o Café da Júlio! Até a próxima! 👋
 ```
 
-## Contribuindo
-
-Se você gostaria de melhorar ou adicionar novas funcionalidades ao bot, siga os seguintes passos:
-
-1. Faça um fork deste repositório.
-2. Crie uma branch para a nova funcionalidade (`git checkout -b nova-funcionalidade`).
-3. Faça as modificações necessárias.
-4. Envie um pull request com as suas mudanças.
 
 
 
